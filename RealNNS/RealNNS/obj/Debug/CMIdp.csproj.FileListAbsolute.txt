@@ -1,0 +1,13 @@
+D:\WORK\VISUAL STUDIO\RealNNS\RealNNS\bin\Debug\CMIdp.exe.manifest
+D:\WORK\VISUAL STUDIO\RealNNS\RealNNS\bin\Debug\CMIdp.application
+D:\WORK\VISUAL STUDIO\RealNNS\RealNNS\bin\Debug\CMIdp.exe
+D:\WORK\VISUAL STUDIO\RealNNS\RealNNS\bin\Debug\CMIdp.pdb
+D:\WORK\VISUAL STUDIO\RealNNS\RealNNS\obj\Debug\CMIdp.csprojAssemblyReference.cache
+D:\WORK\VISUAL STUDIO\RealNNS\RealNNS\obj\Debug\RealNNS.Form1.resources
+D:\WORK\VISUAL STUDIO\RealNNS\RealNNS\obj\Debug\CMIdp.Properties.Resources.resources
+D:\WORK\VISUAL STUDIO\RealNNS\RealNNS\obj\Debug\CMIdp.csproj.GenerateResource.cache
+D:\WORK\VISUAL STUDIO\RealNNS\RealNNS\obj\Debug\CMIdp.csproj.CoreCompileInputs.cache
+D:\WORK\VISUAL STUDIO\RealNNS\RealNNS\obj\Debug\CMIdp.exe.manifest
+D:\WORK\VISUAL STUDIO\RealNNS\RealNNS\obj\Debug\CMIdp.application
+D:\WORK\VISUAL STUDIO\RealNNS\RealNNS\obj\Debug\CMIdp.exe
+D:\WORK\VISUAL STUDIO\RealNNS\RealNNS\obj\Debug\CMIdp.pdb

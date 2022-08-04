@@ -1,0 +1,13 @@
+D:\WORK\VISUAL STUDIO\RealNNS\RealNNS\bin\Debug\RealNNS.exe
+D:\WORK\VISUAL STUDIO\RealNNS\RealNNS\bin\Debug\RealNNS.pdb
+D:\WORK\VISUAL STUDIO\RealNNS\RealNNS\obj\Debug\RealNNS.csprojAssemblyReference.cache
+D:\WORK\VISUAL STUDIO\RealNNS\RealNNS\obj\Debug\RealNNS.Form1.resources
+D:\WORK\VISUAL STUDIO\RealNNS\RealNNS\obj\Debug\RealNNS.Properties.Resources.resources
+D:\WORK\VISUAL STUDIO\RealNNS\RealNNS\obj\Debug\RealNNS.csproj.GenerateResource.cache
+D:\WORK\VISUAL STUDIO\RealNNS\RealNNS\obj\Debug\RealNNS.csproj.CoreCompileInputs.cache
+D:\WORK\VISUAL STUDIO\RealNNS\RealNNS\obj\Debug\RealNNS.exe
+D:\WORK\VISUAL STUDIO\RealNNS\RealNNS\obj\Debug\RealNNS.pdb
+D:\WORK\VISUAL STUDIO\RealNNS\RealNNS\bin\Debug\RealNNS.exe.manifest
+D:\WORK\VISUAL STUDIO\RealNNS\RealNNS\bin\Debug\RealNNS.application
+D:\WORK\VISUAL STUDIO\RealNNS\RealNNS\obj\Debug\RealNNS.exe.manifest
+D:\WORK\VISUAL STUDIO\RealNNS\RealNNS\obj\Debug\RealNNS.application
